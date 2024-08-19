@@ -1,0 +1,27 @@
+h1{
+font-size: 30px;
+text-align: left;
+color: #f7146b;
+font-family:
+  Gill Sans Extrabold,
+  sans-serif
+}
+
+p{
+font-size: 20px;
+text-align: left;
+font-family: Helvetica, sans-serif;
+}
+
+body {
+background-color: #ffffff;
+}
+
+img {
+    width: 50%; /* Redimensionne l'image à 50% de la largeur du conteneur parent */
+    height: auto; /* Garde le ratio de l'image pour éviter la distorsion */
+    display: block; /* Supprime les espaces blancs sous l'image */
+    margin: 20px auto; /* Centre l'image horizontalement et ajoute une marge verticale */
+    border-radius: 10px; /* Ajoute des coins arrondis à l'image */
+}
+
